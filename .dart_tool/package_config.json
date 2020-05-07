@@ -185,10 +185,10 @@
       "name": "flutter_complete_guide",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.2"
     }
   ],
-  "generated": "2020-04-26T14:32:35.399243Z",
+  "generated": "2020-05-07T13:54:00.125695Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
